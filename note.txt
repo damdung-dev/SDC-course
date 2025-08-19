@@ -1,0 +1,4 @@
+Nhân viên mới vào cần dùng khoảng cách cosin ko đc dung euclide
+Muốn tính xác suất phải có Data và mỗi data sẽ có distribution và ngược lại
+Khi tính xác suất mà có biến cố đã xảy ra thì ko gian mẫu sẽ thu hẹp lại.
+ 

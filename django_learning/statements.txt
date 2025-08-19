@@ -1,0 +1,14 @@
+tạo file mới từ django
+django-admin startproject <project_name>
+
+khởi tạo file mới từ django
+python manage.py migrate
+
+tạo máy chủ ảo 
+python manage.py runserver
+
+Nếu muốn tạo cổng cho máy chủ ảo: 
+python manage.py runserver <cổng>
+
+tạo app mới
+python manage.py startapp <app_name>
